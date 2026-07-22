@@ -1,15 +1,22 @@
 ---
-name: "Task / Chore"
-description: Code maintenance, refactoring, optimization, or setup work.
-labels: todo, chore
+name: General Task
+about: Track project chores, refactoring, documentation, or planning
+title: "[TASK] "
+labels: chore
+assignees: ''
 ---
 
-## Objective
+## Description
+[A clear and concise description of the task that needs to be completed.]
 
+## Context / Purpose
+[Why does this task need to be done? How does it help the project or the team's workflow?]
 
-## Technical Requirements
+## Action Items
+[Break the task down into actionable steps.]
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
 
-
-## Acceptance Criteria
-- [ ] Code compiles cleanly with no new warnings or console errors.
-- [ ] Performance/Architecture meets team standards.
+## Notes / References
+[Include any relevant links, documentation, or related issue numbers here.]
