@@ -1,15 +1,22 @@
 ---
-name: "Feature Request"
-description: Propose a new mechanic, system, or tool.
-labels: backlog, feature
+name: Feature Request
+about: Suggest a new mechanic, UI element, or system
+title: "[FEATURE] "
+labels: enhancement
+assignees: ''
 ---
 
-## User / Developer Value
+## Description
+[A clear and concise description of what the feature is. For example: "The player needs a UI element showing the countdown timer."]
 
-
-## Objective & Scope
-
+## Purpose / Benefit
+[Why do we need this feature? How does it contribute to the MVP or core loop?]
 
 ## Acceptance Criteria
-- [ ] Criteria 1
-- [ ] Criteria 2
+[What defines this feature as "done"?]
+- [ ] Logic/Script is complete
+- [ ] Integrated into the main scene
+- [ ] Playtested for bugs
+
+## Relevant Files
+[List any scripts, scenes, or nodes that will be heavily impacted by this feature.]
