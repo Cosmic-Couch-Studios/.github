@@ -8,12 +8,14 @@ assignees: ''
 
 ## Asset Description
 
+
 ## Specifications
 * **Type:** 
 * **Dimensions / Format:** 
 * **Target Folder:** 
 
 ## References
+
 
 ## Checklist
 - [ ] Asset drafted
