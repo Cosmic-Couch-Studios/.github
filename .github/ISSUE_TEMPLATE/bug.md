@@ -8,6 +8,7 @@ assignees: ''
 
 ## Description
 
+
 ## Steps to Reproduce
 1. Go to '...'
 2. Trigger '...'
@@ -15,7 +16,9 @@ assignees: ''
 
 ## Expected Behavior
 
+
 ## Screenshots / Video
 [if applicable to demonstrate problem. You can drag and drop from folder]
+
 
 ## Additional Context
