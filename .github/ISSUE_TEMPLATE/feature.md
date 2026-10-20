@@ -4,6 +4,7 @@ about: Suggest a new mechanic, UI element, or system
 title: "FEATURE - "
 labels: enhancement
 assignees: ''
+type: feature
 ---
 
 ## Description
