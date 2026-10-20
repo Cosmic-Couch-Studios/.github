@@ -4,6 +4,7 @@ about: Create a report to help us fix a broken mechanic or error
 title: "BUG - "
 labels: bug
 assignees: ''
+type: bug
 ---
 
 ## Description
