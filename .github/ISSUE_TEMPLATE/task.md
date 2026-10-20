@@ -4,6 +4,7 @@ about: Track project chores, refactoring, documentation, or planning
 title: "TASK - "
 labels: chore
 assignees: ''
+type: task
 ---
 
 ## Description
