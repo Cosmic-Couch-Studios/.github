@@ -4,6 +4,7 @@ about: Track the creation of sprites, models, audio, or UI elements
 title: "ASSET - "
 labels: art, audio
 assignees: ''
+type: task
 ---
 
 ## Asset Description
